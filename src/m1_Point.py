@@ -828,7 +828,7 @@ def run_test_halfway_to():
     print('Actual is:', p3.halfway_to(p3))
 
 # ------------------------------------------------------------------------------
-# Calls  main  to start the ball rolling.
+# Calls  main  to start the ball rolling.  
 # ------------------------------------------------------------------------------
 
 
